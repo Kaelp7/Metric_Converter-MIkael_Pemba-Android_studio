@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+array input_type_options
+array metric_units
+array result_type_options
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ruler
+id authorTextView
+id cardView
+id imageView2
+id inputEditText
+id inputTypeSpinner
+id resultEditText
+id resultTypeSpinner
+id textView
+id titleTextView
+id toolbar
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.MetricConverter
+style Theme.MetricConverter
+xml backup_rules
+xml data_extraction_rules
