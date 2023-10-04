@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Metric Converter</string>
+    <string-array name="metric_units">
+        <item>Kilometer</item>
+        <item>Hektometer</item>
+        <item>Dekameter</item>
+        <item>Meter</item>
+        <item>Desimeter</item>
+        <item>Centimeter</item>
+        <item>Milimeter</item>
+    </string-array>
+    <string-array name="input_type_options">
+        <item>Kilometer</item>
+        <item>Hektometer</item>
+        <item>Dekameter</item>
+        <item>Meter</item>
+        <item>Desimeter</item>
+        <item>Centimeter</item>
+        <item>Milimeter</item>
+    </string-array>
+    <string-array name="result_type_options">
+        <item>Kilometer</item>
+        <item>Hektometer</item>
+        <item>Dekameter</item>
+        <item>Meter</item>
+        <item>Desimeter</item>
+        <item>Centimeter</item>
+        <item>Milimeter</item>
+    </string-array>
+</resources>
